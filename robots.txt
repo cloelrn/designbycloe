@@ -1,0 +1,13 @@
+# ============================================
+# DESIGN BY CLOÉ — robots.txt
+# https://designbycloe.fr/robots.txt
+# ============================================
+
+User-agent: *
+Allow: /
+
+# Fichiers à ne pas indexer
+Disallow: /404.html
+
+# Sitemap
+Sitemap: https://designbycloe.fr/sitemap.xml

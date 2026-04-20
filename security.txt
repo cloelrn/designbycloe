@@ -1,0 +1,8 @@
+# Design by Cloé — security.txt
+# Conforme à la RFC 9116
+# https://securitytxt.org/
+
+Contact: mailto:designbycloe@outlook.fr
+Preferred-Languages: fr, en
+Canonical: https://designbycloe.fr/.well-known/security.txt
+Expires: 2027-04-20T00:00:00.000Z

@@ -1,0 +1,16 @@
+/* TEAM */
+
+Designer & Développeuse: Cloé Laurin
+Contact: designbycloe@outlook.fr
+Site: https://designbycloe.fr
+Localisation: Charleville-Mézières, Ardennes, France
+
+Photographe portrait: Laura Vergne
+
+/* SITE */
+
+Dernière mise à jour: 2026-04-20
+Standards: HTML5, CSS3, JavaScript ES6
+Typographies: Montserrat, DM Sans (Google Fonts)
+Outils: Visual Studio Code, Adobe Creative Suite
+Hébergement: OVH
